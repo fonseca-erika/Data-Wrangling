@@ -1,4 +1,4 @@
-# Project Title
+# Generate Survey Report
 Generates a report with a map of all the answers to surveys by user, having the question in columns.
 
 # Getting Started
