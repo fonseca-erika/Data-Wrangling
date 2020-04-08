@@ -7,9 +7,13 @@ These instructions will get you a copy of the project up and running on your loc
 ## Prerequisites
 1- SQL Server database with the following structure:
     - dbo.Answer
+    
     - dbo.Question
+    
     - dbo.Survey
+    
     - dbo.SurveyStructure
+    
     - dbo.User   
 
 2- Python interpreter to run the script
@@ -24,7 +28,8 @@ These instructions will get you a copy of the project up and running on your loc
 Running the generateSurveyReport.py and check if it ran successfully, if not check the error messages
 
 ```
-Remark: the access to the database is made using Windows authentication, so make sure the user running the code has privilleges to log in the SQL Server and access the database and its content.
+Remark: the access to the database is made using Windows authentication, so make sure the user running the code 
+has privilleges to log in the SQL Server and access the database and its content.
 ```
 
 # Authors
