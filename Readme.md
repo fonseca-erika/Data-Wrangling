@@ -129,7 +129,7 @@ GO
 4- Folder with write permission to save configurations
 
 ## Installing
-- Put the generateSurveyReport.py and Config.ini at the same folder
+- Put the generateSurveyReport.py, tools.py and Config.ini at the same folder
 - Configure the ini file to set the database location, and the folders to store configuration and reports files
 
 ## Running the Tests
